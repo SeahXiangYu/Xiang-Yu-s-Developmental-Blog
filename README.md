@@ -2,7 +2,7 @@
 ## Week 1
 In week 1, I was introduced to the world of web development and began to learn the basics of HTML and CSS. I discovered that HTML is used to structure web pages, while CSS is used to add style and visual effects to those pages. With these two languages, I was able to create a simple recipe website for egg fried rice.
 ## Week 2
-In week 2, I learned about semantic web development. This concept involves using HTML to create web pages that are not only visually appealing, but also structured in a way that makes them easy for search engines to understand. By using semantic HTML tags, such as <header>, <nav>, <main>, and <footer>, I was able to create a well-organized page that was easy for both humans and machines to read.
+In week 2, I learned about semantic web development. This concept involves using HTML to create web pages that are not only visually appealing, but also structured in a way that makes them easy for search engines to understand. By using semantic HTML tags, such as header, nav, and footer, I was able to create a well-organized page that was easy for both humans and machines to read.
 ## Week 3
 In week 3, I learned about key concepts that are necessary for creating modern, responsive websites. I learned how to create forms with HTML, how to use different positioning values in CSS, and how to use flexbox for powerful layout tools. Additionally, I learned about media queries, which enable me to create specific styles for different device sizes. Overall, the knowledge I gained in week 3 was crucial in helping me to create responsive and dynamic web pages that are visually appealing and functional.
 ## Week 4
